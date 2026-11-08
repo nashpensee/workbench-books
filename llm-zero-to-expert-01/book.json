@@ -1,0 +1,320 @@
+{
+ "id": "llm-zero-to-expert-01",
+ "format": 2,
+ "title": "LLMs from Zero to Expert 1: Getting Started",
+ "subtitle": "What large language models are and how to begin",
+ "author": "Dr. Dev",
+ "publisher": "NoesisLab Publication",
+ "edition": "First edition",
+ "category": "Artificial Intelligence",
+ "language": "English",
+ "year": 2026,
+ "price": 0,
+ "currency": "USD",
+ "color": "#1a365d",
+ "accent": "#63b3ed",
+ "tags": [
+  "LLM",
+  "AI",
+  "beginners",
+  "tokens",
+  "prompts",
+  "course"
+ ],
+ "description": "The first volume of a ten-part course that takes you from complete beginner to expert in large language models. It explains in plain words what AI, machine learning and LLMs are, how a model predicts the next token, what tokens are, how a whole answer is generated, where LLMs came from, how to write your first good prompts, what LLMs can and cannot do, and how to set up your learning workbench. Every chapter has diagrams, examples you can run, and Check your knowledge questions with answers and explanations.",
+ "series": "LLMs from Zero to Expert",
+ "volume": 1,
+ "style": "",
+ "pageCount": 58,
+ "wordCount": 3544,
+ "stats": {
+  "words": 3544,
+  "chapters": 9,
+  "quizzes": 42,
+  "diagrams": 6,
+  "examples": 7,
+  "videos": 0
+ },
+ "contents": [
+  {
+   "title": "How to Use This Course",
+   "page": 6,
+   "quizzes": 3,
+   "sections": [
+    {
+     "title": "How each chapter works",
+     "page": 7
+    }
+   ],
+   "practice": 9
+  },
+  {
+   "title": "AI, Machine Learning and LLMs",
+   "page": 10,
+   "quizzes": 5,
+   "sections": [
+    {
+     "title": "Artificial intelligence",
+     "page": 11
+    },
+    {
+     "title": "Machine learning",
+     "page": 11
+    },
+    {
+     "title": "Deep learning",
+     "page": 12
+    },
+    {
+     "title": "Large language models",
+     "page": 13
+    }
+   ],
+   "practice": 16
+  },
+  {
+   "title": "What a Language Model Does",
+   "page": 17,
+   "quizzes": 5,
+   "sections": [
+    {
+     "title": "Predictions are probabilities",
+     "page": 17
+    },
+    {
+     "title": "Why predicting the next word is so powerful",
+     "page": 19
+    }
+   ],
+   "practice": 22
+  },
+  {
+   "title": "Tokens: How a Model Reads Text",
+   "page": 23,
+   "quizzes": 5,
+   "sections": [
+    {
+     "title": "Why not just use words or letters?",
+     "page": 24
+    },
+    {
+     "title": "Why tokens matter to you",
+     "page": 25
+    }
+   ],
+   "practice": 28
+  },
+  {
+   "title": "From One Token to a Whole Answer",
+   "page": 29,
+   "quizzes": 5,
+   "sections": [
+    {
+     "title": "Temperature: how adventurous the choice is",
+     "page": 30
+    },
+    {
+     "title": "From completion to conversation",
+     "page": 31
+    }
+   ],
+   "practice": 34
+  },
+  {
+   "title": "Where LLMs Came From",
+   "page": 35,
+   "quizzes": 5,
+   "sections": [
+    {
+     "title": "Rules",
+     "page": 36
+    },
+    {
+     "title": "Statistics",
+     "page": 36
+    },
+    {
+     "title": "Neural networks and embeddings",
+     "page": 36
+    },
+    {
+     "title": "The Transformer",
+     "page": 37
+    },
+    {
+     "title": "Scaling up, then chatting",
+     "page": 37
+    }
+   ],
+   "practice": 40
+  },
+  {
+   "title": "Your First Prompts",
+   "page": 41,
+   "quizzes": 5,
+   "sections": [
+    {
+     "title": "The anatomy of a good prompt",
+     "page": 41
+    },
+    {
+     "title": "Simple habits that work",
+     "page": 43
+    }
+   ],
+   "practice": 46
+  },
+  {
+   "title": "What LLMs Can and Cannot Do",
+   "page": 47,
+   "quizzes": 5,
+   "sections": [
+    {
+     "title": "Hallucination",
+     "page": 48
+    },
+    {
+     "title": "Knowledge cutoff",
+     "page": 48
+    },
+    {
+     "title": "Reasoning and maths",
+     "page": 49
+    },
+    {
+     "title": "Bias and safety",
+     "page": 49
+    }
+   ],
+   "practice": 52
+  },
+  {
+   "title": "Your Learning Workbench",
+   "page": 53,
+   "quizzes": 4,
+   "sections": [
+    {
+     "title": "A chat assistant",
+     "page": 53
+    },
+    {
+     "title": "Running examples in this book",
+     "page": 54
+    },
+    {
+     "title": "Python, for later volumes",
+     "page": 54
+    },
+    {
+     "title": "What comes next",
+     "page": 56
+    }
+   ],
+   "practice": 58
+  }
+ ],
+ "front": [
+  {
+   "title": "Title page",
+   "page": 1
+  },
+  {
+   "title": "Publication",
+   "page": 2
+  },
+  {
+   "title": "Contents",
+   "page": 3
+  },
+  {
+   "title": "Foreword",
+   "page": 4
+  },
+  {
+   "title": "About the Author",
+   "page": 5
+  }
+ ],
+ "samplePages": [
+  1,
+  3,
+  6,
+  7,
+  8,
+  58
+ ],
+ "built": "2026-11-08T03:11:32.773Z",
+ "parts": [
+  {
+   "file": "part-0000.wbk",
+   "title": "Front matter",
+   "first": 1,
+   "count": 5,
+   "version": "0c87312c1a74"
+  },
+  {
+   "file": "part-0001.wbk",
+   "title": "How to Use This Course",
+   "first": 6,
+   "count": 4,
+   "version": "ad050c670718"
+  },
+  {
+   "file": "part-0002.wbk",
+   "title": "AI, Machine Learning and LLMs",
+   "first": 10,
+   "count": 7,
+   "version": "13cd0aa18b5f"
+  },
+  {
+   "file": "part-0003.wbk",
+   "title": "What a Language Model Does",
+   "first": 17,
+   "count": 6,
+   "version": "152f5fb95ff6"
+  },
+  {
+   "file": "part-0004.wbk",
+   "title": "Tokens: How a Model Reads Text",
+   "first": 23,
+   "count": 6,
+   "version": "b05eeb311f96"
+  },
+  {
+   "file": "part-0005.wbk",
+   "title": "From One Token to a Whole Answer",
+   "first": 29,
+   "count": 6,
+   "version": "3165df05539e"
+  },
+  {
+   "file": "part-0006.wbk",
+   "title": "Where LLMs Came From",
+   "first": 35,
+   "count": 6,
+   "version": "49d531e0cd6c"
+  },
+  {
+   "file": "part-0007.wbk",
+   "title": "Your First Prompts",
+   "first": 41,
+   "count": 6,
+   "version": "f6e591d86d1c"
+  },
+  {
+   "file": "part-0008.wbk",
+   "title": "What LLMs Can and Cannot Do",
+   "first": 47,
+   "count": 6,
+   "version": "88a51c82df23"
+  },
+  {
+   "file": "part-0009.wbk",
+   "title": "Your Learning Workbench",
+   "first": 53,
+   "count": 6,
+   "version": "39bdbb3ad58a"
+  }
+ ],
+ "version": "491ff251860c"
+}

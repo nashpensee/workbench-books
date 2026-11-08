@@ -1,0 +1,178 @@
+{
+ "id": "clay-to-keyboard",
+ "format": 2,
+ "title": "From Clay to Keyboard",
+ "subtitle": "A short history of writing",
+ "author": "Dr. Dev",
+ "publisher": "NoesisLab Publication",
+ "edition": "First edition",
+ "category": "History",
+ "language": "English",
+ "year": 2023,
+ "price": 0,
+ "currency": "USD",
+ "color": "#63171b",
+ "accent": "#fefcbf",
+ "tags": [
+  "history",
+  "writing",
+  "alphabets",
+  "printing",
+  "books"
+ ],
+ "description": "How did people first learn to store words outside their heads? This short history follows writing from counting tokens and clay tablets in Mesopotamia, through hieroglyphs, the alphabet and the scrolls of the ancient world, to monks copying books by hand, the printing press, and the screens and keyboards we write on today.",
+ "series": "",
+ "volume": 0,
+ "style": "",
+ "pageCount": 19,
+ "wordCount": 2433,
+ "stats": {
+  "words": 2433,
+  "chapters": 7,
+  "quizzes": 0,
+  "diagrams": 0,
+  "examples": 0,
+  "videos": 0
+ },
+ "contents": [
+  {
+   "title": "Before Writing",
+   "page": 6,
+   "quizzes": 0,
+   "sections": [],
+   "practice": 0
+  },
+  {
+   "title": "Marks on Clay",
+   "page": 8,
+   "quizzes": 0,
+   "sections": [],
+   "practice": 0
+  },
+  {
+   "title": "Pictures That Speak",
+   "page": 10,
+   "quizzes": 0,
+   "sections": [],
+   "practice": 0
+  },
+  {
+   "title": "The Alphabet Arrives",
+   "page": 12,
+   "quizzes": 0,
+   "sections": [],
+   "practice": 0
+  },
+  {
+   "title": "Books by Hand",
+   "page": 14,
+   "quizzes": 0,
+   "sections": [],
+   "practice": 0
+  },
+  {
+   "title": "The Press Changes Everything",
+   "page": 16,
+   "quizzes": 0,
+   "sections": [],
+   "practice": 0
+  },
+  {
+   "title": "Writing Today",
+   "page": 18,
+   "quizzes": 0,
+   "sections": [],
+   "practice": 0
+  }
+ ],
+ "front": [
+  {
+   "title": "Title page",
+   "page": 1
+  },
+  {
+   "title": "Publication",
+   "page": 2
+  },
+  {
+   "title": "Contents",
+   "page": 3
+  },
+  {
+   "title": "Foreword",
+   "page": 4
+  },
+  {
+   "title": "About the Author",
+   "page": 5
+  }
+ ],
+ "samplePages": [
+  1,
+  3,
+  6,
+  7,
+  8,
+  19
+ ],
+ "built": "2026-11-08T03:11:37.471Z",
+ "parts": [
+  {
+   "file": "part-0000.wbk",
+   "title": "Front matter",
+   "first": 1,
+   "count": 5,
+   "version": "fd87f426fddc"
+  },
+  {
+   "file": "part-0001.wbk",
+   "title": "Before Writing",
+   "first": 6,
+   "count": 2,
+   "version": "d62184d37935"
+  },
+  {
+   "file": "part-0002.wbk",
+   "title": "Marks on Clay",
+   "first": 8,
+   "count": 2,
+   "version": "8626ea1ae1e9"
+  },
+  {
+   "file": "part-0003.wbk",
+   "title": "Pictures That Speak",
+   "first": 10,
+   "count": 2,
+   "version": "ef189b66cf89"
+  },
+  {
+   "file": "part-0004.wbk",
+   "title": "The Alphabet Arrives",
+   "first": 12,
+   "count": 2,
+   "version": "8fa687ca04ad"
+  },
+  {
+   "file": "part-0005.wbk",
+   "title": "Books by Hand",
+   "first": 14,
+   "count": 2,
+   "version": "e03512ab29a1"
+  },
+  {
+   "file": "part-0006.wbk",
+   "title": "The Press Changes Everything",
+   "first": 16,
+   "count": 2,
+   "version": "23dbd54175df"
+  },
+  {
+   "file": "part-0007.wbk",
+   "title": "Writing Today",
+   "first": 18,
+   "count": 2,
+   "version": "7bf2d4f3a0f4"
+  }
+ ],
+ "version": "c1672e5e47d7"
+}

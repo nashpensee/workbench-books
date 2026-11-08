@@ -1,0 +1,177 @@
+{
+ "id": "money-made-simple",
+ "format": 2,
+ "title": "Money Made Simple",
+ "subtitle": "A first guide to budgeting and saving",
+ "author": "Dr. Dev",
+ "publisher": "NoesisLab Publication",
+ "edition": "First edition",
+ "category": "Personal Finance",
+ "language": "English",
+ "year": 2024,
+ "price": 0,
+ "currency": "USD",
+ "color": "#744210",
+ "accent": "#c6f6d5",
+ "tags": [
+  "budgeting",
+  "saving",
+  "money",
+  "household"
+ ],
+ "description": "A calm, practical introduction to managing everyday money. Learn where your money really goes, build a simple monthly budget, set up an emergency fund, deal with debt step by step, and make saving automatic. Written for people who find money stressful and want a plan they can actually keep.",
+ "series": "",
+ "volume": 0,
+ "style": "",
+ "pageCount": 19,
+ "wordCount": 2502,
+ "stats": {
+  "words": 2502,
+  "chapters": 7,
+  "quizzes": 0,
+  "diagrams": 0,
+  "examples": 0,
+  "videos": 0
+ },
+ "contents": [
+  {
+   "title": "Why Money Feels Hard",
+   "page": 6,
+   "quizzes": 0,
+   "sections": [],
+   "practice": 0
+  },
+  {
+   "title": "Where Does It All Go?",
+   "page": 8,
+   "quizzes": 0,
+   "sections": [],
+   "practice": 0
+  },
+  {
+   "title": "Building a Budget That Works",
+   "page": 10,
+   "quizzes": 0,
+   "sections": [],
+   "practice": 0
+  },
+  {
+   "title": "A Cushion for Bad Days",
+   "page": 12,
+   "quizzes": 0,
+   "sections": [],
+   "practice": 0
+  },
+  {
+   "title": "Dealing with Debt",
+   "page": 14,
+   "quizzes": 0,
+   "sections": [],
+   "practice": 0
+  },
+  {
+   "title": "Making Saving Automatic",
+   "page": 16,
+   "quizzes": 0,
+   "sections": [],
+   "practice": 0
+  },
+  {
+   "title": "Keeping It Going",
+   "page": 18,
+   "quizzes": 0,
+   "sections": [],
+   "practice": 0
+  }
+ ],
+ "front": [
+  {
+   "title": "Title page",
+   "page": 1
+  },
+  {
+   "title": "Publication",
+   "page": 2
+  },
+  {
+   "title": "Contents",
+   "page": 3
+  },
+  {
+   "title": "Foreword",
+   "page": 4
+  },
+  {
+   "title": "About the Author",
+   "page": 5
+  }
+ ],
+ "samplePages": [
+  1,
+  3,
+  6,
+  7,
+  8,
+  19
+ ],
+ "built": "2026-11-08T03:11:34.342Z",
+ "parts": [
+  {
+   "file": "part-0000.wbk",
+   "title": "Front matter",
+   "first": 1,
+   "count": 5,
+   "version": "66768e67c87f"
+  },
+  {
+   "file": "part-0001.wbk",
+   "title": "Why Money Feels Hard",
+   "first": 6,
+   "count": 2,
+   "version": "8afdd958764f"
+  },
+  {
+   "file": "part-0002.wbk",
+   "title": "Where Does It All Go?",
+   "first": 8,
+   "count": 2,
+   "version": "0d2369f5affb"
+  },
+  {
+   "file": "part-0003.wbk",
+   "title": "Building a Budget That Works",
+   "first": 10,
+   "count": 2,
+   "version": "b6d2df67c768"
+  },
+  {
+   "file": "part-0004.wbk",
+   "title": "A Cushion for Bad Days",
+   "first": 12,
+   "count": 2,
+   "version": "1ed8a88468e2"
+  },
+  {
+   "file": "part-0005.wbk",
+   "title": "Dealing with Debt",
+   "first": 14,
+   "count": 2,
+   "version": "0c545adfdde0"
+  },
+  {
+   "file": "part-0006.wbk",
+   "title": "Making Saving Automatic",
+   "first": 16,
+   "count": 2,
+   "version": "8032149a0428"
+  },
+  {
+   "file": "part-0007.wbk",
+   "title": "Keeping It Going",
+   "first": 18,
+   "count": 2,
+   "version": "5f94f6f706c4"
+  }
+ ],
+ "version": "897168afac9c"
+}

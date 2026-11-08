@@ -1,0 +1,177 @@
+{
+ "id": "lighthouse-gull-point",
+ "format": 2,
+ "title": "The Lighthouse at Gull Point",
+ "subtitle": "A story for young readers",
+ "author": "Dr. Dev",
+ "publisher": "NoesisLab Publication",
+ "edition": "First edition",
+ "category": "Children's Fiction",
+ "language": "English",
+ "year": 2026,
+ "price": 0,
+ "currency": "USD",
+ "color": "#1f4e79",
+ "accent": "#f2c14e",
+ "tags": [
+  "adventure",
+  "sea",
+  "friendship",
+  "courage"
+ ],
+ "description": "Ten-year-old Nell spends a summer with her grandfather, the last keeper of the lighthouse at Gull Point. When a storm knocks out the light on the night the fishing boats are due home, Nell must find the courage to climb the tower alone. A warm story about family, the sea and being brave when it matters.",
+ "series": "",
+ "volume": 0,
+ "style": "",
+ "pageCount": 19,
+ "wordCount": 3022,
+ "stats": {
+  "words": 3022,
+  "chapters": 7,
+  "quizzes": 0,
+  "diagrams": 0,
+  "examples": 0,
+  "videos": 0
+ },
+ "contents": [
+  {
+   "title": "The Long Road to the Sea",
+   "page": 6,
+   "quizzes": 0,
+   "sections": [],
+   "practice": 0
+  },
+  {
+   "title": "The Keeper's Rules",
+   "page": 8,
+   "quizzes": 0,
+   "sections": [],
+   "practice": 0
+  },
+  {
+   "title": "Wren and the Harbour",
+   "page": 10,
+   "quizzes": 0,
+   "sections": [],
+   "practice": 0
+  },
+  {
+   "title": "Thursday",
+   "page": 12,
+   "quizzes": 0,
+   "sections": [],
+   "practice": 0
+  },
+  {
+   "title": "One Hundred and Twelve Steps",
+   "page": 14,
+   "quizzes": 0,
+   "sections": [],
+   "practice": 0
+  },
+  {
+   "title": "The Light Comes Home",
+   "page": 16,
+   "quizzes": 0,
+   "sections": [],
+   "practice": 0
+  },
+  {
+   "title": "Keeper",
+   "page": 18,
+   "quizzes": 0,
+   "sections": [],
+   "practice": 0
+  }
+ ],
+ "front": [
+  {
+   "title": "Title page",
+   "page": 1
+  },
+  {
+   "title": "Publication",
+   "page": 2
+  },
+  {
+   "title": "Contents",
+   "page": 3
+  },
+  {
+   "title": "Foreword",
+   "page": 4
+  },
+  {
+   "title": "About the Author",
+   "page": 5
+  }
+ ],
+ "samplePages": [
+  1,
+  3,
+  6,
+  7,
+  8,
+  19
+ ],
+ "built": "2026-11-08T03:11:29.642Z",
+ "parts": [
+  {
+   "file": "part-0000.wbk",
+   "title": "Front matter",
+   "first": 1,
+   "count": 5,
+   "version": "c4e8261a0e3b"
+  },
+  {
+   "file": "part-0001.wbk",
+   "title": "The Long Road to the Sea",
+   "first": 6,
+   "count": 2,
+   "version": "b24df20051e4"
+  },
+  {
+   "file": "part-0002.wbk",
+   "title": "The Keeper's Rules",
+   "first": 8,
+   "count": 2,
+   "version": "67b5b5271015"
+  },
+  {
+   "file": "part-0003.wbk",
+   "title": "Wren and the Harbour",
+   "first": 10,
+   "count": 2,
+   "version": "8310dccb1ae2"
+  },
+  {
+   "file": "part-0004.wbk",
+   "title": "Thursday",
+   "first": 12,
+   "count": 2,
+   "version": "0175fdf03a2c"
+  },
+  {
+   "file": "part-0005.wbk",
+   "title": "One Hundred and Twelve Steps",
+   "first": 14,
+   "count": 2,
+   "version": "f50a9a373817"
+  },
+  {
+   "file": "part-0006.wbk",
+   "title": "The Light Comes Home",
+   "first": 16,
+   "count": 2,
+   "version": "38fdea9fb5c9"
+  },
+  {
+   "file": "part-0007.wbk",
+   "title": "Keeper",
+   "first": 18,
+   "count": 2,
+   "version": "cbd175fc5f39"
+  }
+ ],
+ "version": "7ee77a9e9678"
+}

@@ -2,9 +2,12 @@
  "books": [
   {
    "id": "clay-to-keyboard",
+   "format": 2,
    "title": "From Clay to Keyboard",
    "subtitle": "A short history of writing",
-   "author": "Henrik Dahl",
+   "author": "Dr. Dev",
+   "publisher": "NoesisLab Publication",
+   "edition": "First edition",
    "category": "History",
    "language": "English",
    "year": 2023,
@@ -22,34 +25,36 @@
    "description": "How did people first learn to store words outside their heads? This short history follows writing from counting tokens and clay tablets in Mesopotamia, through hieroglyphs, the alphabet and the scrolls of the ancient world, to monks copying books by hand, the printing press, and the screens and keyboards we write on today.",
    "series": "",
    "volume": 0,
-   "pageCount": 20,
-   "wordCount": 2127,
+   "style": "",
+   "pageCount": 19,
+   "wordCount": 2433,
    "stats": {
-    "words": 2127,
+    "words": 2433,
     "chapters": 7,
     "quizzes": 0,
     "diagrams": 0,
-    "examples": 0
+    "examples": 0,
+    "videos": 0
    },
    "contents": [
     {
      "title": "Before Writing",
-     "page": 3,
+     "page": 6,
      "quizzes": 0
     },
     {
      "title": "Marks on Clay",
-     "page": 5,
-     "quizzes": 0
-    },
-    {
-     "title": "Pictures That Speak",
      "page": 8,
      "quizzes": 0
     },
     {
+     "title": "Pictures That Speak",
+     "page": 10,
+     "quizzes": 0
+    },
+    {
      "title": "The Alphabet Arrives",
-     "page": 11,
+     "page": 12,
      "quizzes": 0
     },
     {
@@ -59,30 +64,56 @@
     },
     {
      "title": "The Press Changes Everything",
-     "page": 17,
+     "page": 16,
      "quizzes": 0
     },
     {
      "title": "Writing Today",
-     "page": 19,
+     "page": 18,
      "quizzes": 0
+    }
+   ],
+   "front": [
+    {
+     "title": "Title page",
+     "page": 1
+    },
+    {
+     "title": "Publication",
+     "page": 2
+    },
+    {
+     "title": "Contents",
+     "page": 3
+    },
+    {
+     "title": "Foreword",
+     "page": 4
+    },
+    {
+     "title": "About the Author",
+     "page": 5
     }
    ],
    "samplePages": [
     1,
-    2,
     3,
-    4,
-    5,
-    20
+    6,
+    7,
+    8,
+    19
    ],
-   "built": "2026-11-07T04:49:25.636Z"
+   "built": "2026-11-08T03:11:37.471Z",
+   "version": "c1672e5e47d7"
   },
   {
    "id": "linear-algebra-visually",
+   "format": 2,
    "title": "Linear Algebra, Visually",
    "subtitle": "Vectors, matrices and the mathematics behind modern AI",
-   "author": "Workbench Learning",
+   "author": "Dr. Dev",
+   "publisher": "NoesisLab Publication",
+   "edition": "First edition",
    "category": "Mathematics",
    "language": "English",
    "year": 2026,
@@ -102,10 +133,10 @@
    "series": "",
    "volume": 0,
    "style": "article",
-   "pageCount": 38,
-   "wordCount": 1552,
+   "pageCount": 46,
+   "wordCount": 1883,
    "stats": {
-    "words": 1552,
+    "words": 1883,
     "chapters": 7,
     "quizzes": 21,
     "diagrams": 7,
@@ -115,55 +146,81 @@
    "contents": [
     {
      "title": "Why Linear Algebra?",
-     "page": 3,
+     "page": 6,
      "quizzes": 3
     },
     {
      "title": "Vectors: Arrows and Lists",
-     "page": 8,
+     "page": 11,
      "quizzes": 3
     },
     {
      "title": "Length and the Dot Product",
-     "page": 13,
+     "page": 17,
      "quizzes": 3
     },
     {
      "title": "Matrices: Machines That Move Space",
-     "page": 18,
-     "quizzes": 3
-    },
-    {
-     "title": "Multiplying Matrices",
      "page": 23,
      "quizzes": 3
     },
     {
-     "title": "Solving Systems of Equations",
+     "title": "Multiplying Matrices",
      "page": 29,
      "quizzes": 3
     },
     {
-     "title": "Eigenvectors and the Big Picture",
-     "page": 34,
+     "title": "Solving Systems of Equations",
+     "page": 35,
      "quizzes": 3
+    },
+    {
+     "title": "Eigenvectors and the Big Picture",
+     "page": 41,
+     "quizzes": 3
+    }
+   ],
+   "front": [
+    {
+     "title": "Title page",
+     "page": 1
+    },
+    {
+     "title": "Publication",
+     "page": 2
+    },
+    {
+     "title": "Contents",
+     "page": 3
+    },
+    {
+     "title": "Foreword",
+     "page": 4
+    },
+    {
+     "title": "About the Author",
+     "page": 5
     }
    ],
    "samplePages": [
     1,
-    2,
     3,
-    4,
-    5,
-    38
+    6,
+    7,
+    8,
+    46
    ],
-   "built": "2026-11-08T01:52:39.182Z"
+   "built": "2026-11-08T03:11:31.209Z",
+   "version": "4af3e18ddcc1"
   },
   {
    "id": "llm-zero-to-expert-01",
+   "format": 2,
    "title": "LLMs from Zero to Expert 1: Getting Started",
    "subtitle": "What large language models are and how to begin",
-   "author": "Workbench Learning",
+   "author": "Dr. Dev",
+   "publisher": "NoesisLab Publication",
+   "edition": "First edition",
    "category": "Artificial Intelligence",
    "language": "English",
    "year": 2026,
@@ -182,77 +239,105 @@
    "description": "The first volume of a ten-part course that takes you from complete beginner to expert in large language models. It explains in plain words what AI, machine learning and LLMs are, how a model predicts the next token, what tokens are, how a whole answer is generated, where LLMs came from, how to write your first good prompts, what LLMs can and cannot do, and how to set up your learning workbench. Every chapter has diagrams, examples you can run, and Check your knowledge questions with answers and explanations.",
    "series": "LLMs from Zero to Expert",
    "volume": 1,
-   "pageCount": 67,
-   "wordCount": 3226,
+   "style": "",
+   "pageCount": 58,
+   "wordCount": 3544,
    "stats": {
-    "words": 3226,
+    "words": 3544,
     "chapters": 9,
     "quizzes": 42,
     "diagrams": 6,
-    "examples": 7
+    "examples": 7,
+    "videos": 0
    },
    "contents": [
     {
      "title": "How to Use This Course",
-     "page": 3,
+     "page": 6,
      "quizzes": 3
     },
     {
      "title": "AI, Machine Learning and LLMs",
-     "page": 8,
+     "page": 10,
      "quizzes": 5
     },
     {
      "title": "What a Language Model Does",
-     "page": 18,
+     "page": 17,
      "quizzes": 5
     },
     {
      "title": "Tokens: How a Model Reads Text",
-     "page": 26,
+     "page": 23,
      "quizzes": 5
     },
     {
      "title": "From One Token to a Whole Answer",
-     "page": 33,
+     "page": 29,
      "quizzes": 5
     },
     {
      "title": "Where LLMs Came From",
-     "page": 41,
+     "page": 35,
      "quizzes": 5
     },
     {
      "title": "Your First Prompts",
-     "page": 48,
+     "page": 41,
      "quizzes": 5
     },
     {
      "title": "What LLMs Can and Cannot Do",
-     "page": 54,
+     "page": 47,
      "quizzes": 5
     },
     {
      "title": "Your Learning Workbench",
-     "page": 60,
+     "page": 53,
      "quizzes": 4
+    }
+   ],
+   "front": [
+    {
+     "title": "Title page",
+     "page": 1
+    },
+    {
+     "title": "Publication",
+     "page": 2
+    },
+    {
+     "title": "Contents",
+     "page": 3
+    },
+    {
+     "title": "Foreword",
+     "page": 4
+    },
+    {
+     "title": "About the Author",
+     "page": 5
     }
    ],
    "samplePages": [
     1,
-    2,
     3,
-    4,
-    5,
-    67
+    6,
+    7,
+    8,
+    58
    ],
-   "built": "2026-11-07T04:49:25.614Z"
+   "built": "2026-11-08T03:11:32.773Z",
+   "version": "491ff251860c"
   },
   {
    "id": "money-made-simple",
+   "format": 2,
    "title": "Money Made Simple",
    "subtitle": "A first guide to budgeting and saving",
-   "author": "Elena Marsh",
+   "author": "Dr. Dev",
+   "publisher": "NoesisLab Publication",
+   "edition": "First edition",
    "category": "Personal Finance",
    "language": "English",
    "year": 2024,
@@ -269,29 +354,31 @@
    "description": "A calm, practical introduction to managing everyday money. Learn where your money really goes, build a simple monthly budget, set up an emergency fund, deal with debt step by step, and make saving automatic. Written for people who find money stressful and want a plan they can actually keep.",
    "series": "",
    "volume": 0,
-   "pageCount": 21,
-   "wordCount": 2204,
+   "style": "",
+   "pageCount": 19,
+   "wordCount": 2502,
    "stats": {
-    "words": 2204,
+    "words": 2502,
     "chapters": 7,
     "quizzes": 0,
     "diagrams": 0,
-    "examples": 0
+    "examples": 0,
+    "videos": 0
    },
    "contents": [
     {
      "title": "Why Money Feels Hard",
-     "page": 3,
-     "quizzes": 0
-    },
-    {
-     "title": "Where Does It All Go?",
      "page": 6,
      "quizzes": 0
     },
     {
+     "title": "Where Does It All Go?",
+     "page": 8,
+     "quizzes": 0
+    },
+    {
      "title": "Building a Budget That Works",
-     "page": 9,
+     "page": 10,
      "quizzes": 0
     },
     {
@@ -301,35 +388,61 @@
     },
     {
      "title": "Dealing with Debt",
-     "page": 15,
+     "page": 14,
      "quizzes": 0
     },
     {
      "title": "Making Saving Automatic",
-     "page": 18,
+     "page": 16,
      "quizzes": 0
     },
     {
      "title": "Keeping It Going",
-     "page": 20,
+     "page": 18,
      "quizzes": 0
+    }
+   ],
+   "front": [
+    {
+     "title": "Title page",
+     "page": 1
+    },
+    {
+     "title": "Publication",
+     "page": 2
+    },
+    {
+     "title": "Contents",
+     "page": 3
+    },
+    {
+     "title": "Foreword",
+     "page": 4
+    },
+    {
+     "title": "About the Author",
+     "page": 5
     }
    ],
    "samplePages": [
     1,
-    2,
     3,
-    4,
-    5,
-    21
+    6,
+    7,
+    8,
+    19
    ],
-   "built": "2026-11-07T04:49:25.624Z"
+   "built": "2026-11-08T03:11:34.342Z",
+   "version": "897168afac9c"
   },
   {
    "id": "python-small-steps",
+   "format": 2,
    "title": "Python in Small Steps",
    "subtitle": "A gentle first book on programming",
-   "author": "Tomas Reyes",
+   "author": "Dr. Dev",
+   "publisher": "NoesisLab Publication",
+   "edition": "First edition",
    "category": "Technology",
    "language": "English",
    "year": 2025,
@@ -346,34 +459,36 @@
    "description": "Never written a line of code? This short book takes you from \"what is a program?\" to writing small useful scripts of your own. Each chapter introduces one idea, shows it in a few lines of Python, and ends with a small exercise. No maths beyond adding up, and no jargon left unexplained.",
    "series": "",
    "volume": 0,
-   "pageCount": 22,
-   "wordCount": 1909,
+   "style": "",
+   "pageCount": 21,
+   "wordCount": 2209,
    "stats": {
-    "words": 1909,
+    "words": 2209,
     "chapters": 7,
     "quizzes": 0,
     "diagrams": 0,
-    "examples": 0
+    "examples": 0,
+    "videos": 0
    },
    "contents": [
     {
      "title": "What a Program Really Is",
-     "page": 3,
-     "quizzes": 0
-    },
-    {
-     "title": "Remembering Things with Variables",
      "page": 6,
      "quizzes": 0
     },
     {
+     "title": "Remembering Things with Variables",
+     "page": 8,
+     "quizzes": 0
+    },
+    {
      "title": "Making Decisions",
-     "page": 9,
+     "page": 10,
      "quizzes": 0
     },
     {
      "title": "Doing Things Again and Again",
-     "page": 12,
+     "page": 13,
      "quizzes": 0
     },
     {
@@ -388,25 +503,51 @@
     },
     {
      "title": "Where to Go Next",
-     "page": 21,
+     "page": 20,
      "quizzes": 0
+    }
+   ],
+   "front": [
+    {
+     "title": "Title page",
+     "page": 1
+    },
+    {
+     "title": "Publication",
+     "page": 2
+    },
+    {
+     "title": "Contents",
+     "page": 3
+    },
+    {
+     "title": "Foreword",
+     "page": 4
+    },
+    {
+     "title": "About the Author",
+     "page": 5
     }
    ],
    "samplePages": [
     1,
-    2,
     3,
-    4,
-    5,
-    22
+    6,
+    7,
+    8,
+    21
    ],
-   "built": "2026-11-07T04:49:25.630Z"
+   "built": "2026-11-08T03:11:35.906Z",
+   "version": "a4d3f9d3909c"
   },
   {
    "id": "ten-quiet-minutes",
+   "format": 2,
    "title": "Ten Quiet Minutes",
    "subtitle": "Simple habits for a calmer day",
-   "author": "Samuel Adeyemi",
+   "author": "Dr. Dev",
+   "publisher": "NoesisLab Publication",
+   "edition": "First edition",
    "category": "Self-Help",
    "language": "English",
    "year": 2025,
@@ -424,44 +565,46 @@
    "description": "You do not need an hour of meditation or a retreat in the mountains to feel calmer. This small book offers ten-minute practices you can fit into an ordinary busy day: a gentler morning, breathing that settles the body, walks that clear the head, a quieter relationship with your phone, and an evening routine that leads to better sleep.",
    "series": "",
    "volume": 0,
+   "style": "",
    "pageCount": 19,
-   "wordCount": 2129,
+   "wordCount": 2431,
    "stats": {
-    "words": 2129,
+    "words": 2431,
     "chapters": 7,
     "quizzes": 0,
     "diagrams": 0,
-    "examples": 0
+    "examples": 0,
+    "videos": 0
    },
    "contents": [
     {
      "title": "Why Ten Minutes Is Enough",
-     "page": 3,
-     "quizzes": 0
-    },
-    {
-     "title": "A Gentler Morning",
      "page": 6,
      "quizzes": 0
     },
     {
-     "title": "Breathing That Settles the Body",
+     "title": "A Gentler Morning",
      "page": 8,
      "quizzes": 0
     },
     {
-     "title": "Walking to Clear Your Head",
+     "title": "Breathing That Settles the Body",
      "page": 10,
      "quizzes": 0
     },
     {
+     "title": "Walking to Clear Your Head",
+     "page": 12,
+     "quizzes": 0
+    },
+    {
      "title": "A Quieter Phone",
-     "page": 13,
+     "page": 14,
      "quizzes": 0
     },
     {
      "title": "An Evening That Leads to Sleep",
-     "page": 15,
+     "page": 16,
      "quizzes": 0
     },
     {
@@ -470,21 +613,130 @@
      "quizzes": 0
     }
    ],
+   "front": [
+    {
+     "title": "Title page",
+     "page": 1
+    },
+    {
+     "title": "Publication",
+     "page": 2
+    },
+    {
+     "title": "Contents",
+     "page": 3
+    },
+    {
+     "title": "Foreword",
+     "page": 4
+    },
+    {
+     "title": "About the Author",
+     "page": 5
+    }
+   ],
    "samplePages": [
     1,
-    2,
     3,
-    4,
-    5,
+    6,
+    7,
+    8,
     19
    ],
-   "built": "2026-11-07T04:49:25.584Z"
+   "built": "2026-11-08T03:11:28.076Z",
+   "version": "191caad372f6"
+  },
+  {
+   "id": "enterprise-rag-architect",
+   "format": 2,
+   "title": "The Enterprise RAG Architect",
+   "subtitle": "Questions and answers, from the mathematics of similarity to production systems",
+   "author": "Dr. Dev",
+   "publisher": "NoesisLab Publication",
+   "edition": "First edition",
+   "category": "Artificial Intelligence",
+   "language": "English",
+   "year": 2026,
+   "price": 0,
+   "currency": "USD",
+   "color": "#0b2545",
+   "accent": "#2ec4b6",
+   "tags": [
+    "RAG",
+    "retrieval-augmented generation",
+    "vector search",
+    "embeddings",
+    "cosine similarity",
+    "dot product",
+    "enterprise architecture"
+   ],
+   "description": "A growing library of questions and answers for architects and engineers who design retrieval-augmented generation (RAG) systems for real organisations. Each answer goes deep: the definitions, a careful derivation, diagrams, worked examples with real numbers, code you can run, the consequences for production systems, and the best videos, papers and books to read next. The questions build on one another — from the geometry of similarity, through vector indexes and hardware, to the design of complete enterprise RAG platforms.",
+   "series": "",
+   "volume": 0,
+   "style": "article",
+   "pageCount": 47,
+   "wordCount": 3991,
+   "stats": {
+    "words": 3991,
+    "chapters": 2,
+    "quizzes": 12,
+    "diagrams": 5,
+    "examples": 4,
+    "videos": 2
+   },
+   "contents": [
+    {
+     "title": "Q1. Cosine Similarity: Derivation and Why Length Does Not Count",
+     "page": 7,
+     "quizzes": 6
+    },
+    {
+     "title": "Q2. When Does the Dot Product Rank Like Cosine Similarity?",
+     "page": 28,
+     "quizzes": 6
+    }
+   ],
+   "front": [
+    {
+     "title": "Title page",
+     "page": 1
+    },
+    {
+     "title": "Publication",
+     "page": 2
+    },
+    {
+     "title": "Contents",
+     "page": 3
+    },
+    {
+     "title": "Foreword",
+     "page": 4
+    },
+    {
+     "title": "About the Author",
+     "page": 6
+    }
+   ],
+   "samplePages": [
+    1,
+    3,
+    7,
+    8,
+    9,
+    47
+   ],
+   "built": "2026-11-08T03:11:39.042Z",
+   "version": "01bd7341766a"
   },
   {
    "id": "lighthouse-gull-point",
+   "format": 2,
    "title": "The Lighthouse at Gull Point",
    "subtitle": "A story for young readers",
-   "author": "Mira Holloway",
+   "author": "Dr. Dev",
+   "publisher": "NoesisLab Publication",
+   "edition": "First edition",
    "category": "Children's Fiction",
    "language": "English",
    "year": 2026,
@@ -501,29 +753,31 @@
    "description": "Ten-year-old Nell spends a summer with her grandfather, the last keeper of the lighthouse at Gull Point. When a storm knocks out the light on the night the fishing boats are due home, Nell must find the courage to climb the tower alone. A warm story about family, the sea and being brave when it matters.",
    "series": "",
    "volume": 0,
-   "pageCount": 22,
-   "wordCount": 2715,
+   "style": "",
+   "pageCount": 19,
+   "wordCount": 3022,
    "stats": {
-    "words": 2715,
+    "words": 3022,
     "chapters": 7,
     "quizzes": 0,
     "diagrams": 0,
-    "examples": 0
+    "examples": 0,
+    "videos": 0
    },
    "contents": [
     {
      "title": "The Long Road to the Sea",
-     "page": 3,
-     "quizzes": 0
-    },
-    {
-     "title": "The Keeper's Rules",
      "page": 6,
      "quizzes": 0
     },
     {
+     "title": "The Keeper's Rules",
+     "page": 8,
+     "quizzes": 0
+    },
+    {
      "title": "Wren and the Harbour",
-     "page": 9,
+     "page": 10,
      "quizzes": 0
     },
     {
@@ -533,29 +787,52 @@
     },
     {
      "title": "One Hundred and Twelve Steps",
-     "page": 15,
+     "page": 14,
      "quizzes": 0
     },
     {
      "title": "The Light Comes Home",
-     "page": 18,
+     "page": 16,
      "quizzes": 0
     },
     {
      "title": "Keeper",
-     "page": 20,
+     "page": 18,
      "quizzes": 0
+    }
+   ],
+   "front": [
+    {
+     "title": "Title page",
+     "page": 1
+    },
+    {
+     "title": "Publication",
+     "page": 2
+    },
+    {
+     "title": "Contents",
+     "page": 3
+    },
+    {
+     "title": "Foreword",
+     "page": 4
+    },
+    {
+     "title": "About the Author",
+     "page": 5
     }
    ],
    "samplePages": [
     1,
-    2,
     3,
-    4,
-    5,
-    22
+    6,
+    7,
+    8,
+    19
    ],
-   "built": "2026-11-07T04:49:25.596Z"
+   "built": "2026-11-08T03:11:29.642Z",
+   "version": "7ee77a9e9678"
   }
  ]
 }
