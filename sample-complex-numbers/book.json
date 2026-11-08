@@ -1,0 +1,150 @@
+{
+ "id": "sample-complex-numbers",
+ "format": 2,
+ "title": "Sample: Complex Numbers",
+ "subtitle": "A five-page lesson at the whiteboard",
+ "author": "Dr. Dev",
+ "publisher": "NoesisLab Publication",
+ "edition": "First edition",
+ "category": "Mathematics",
+ "language": "English",
+ "year": 2026,
+ "price": 0,
+ "currency": "USD",
+ "color": "#1d2a6b",
+ "accent": "#ffd54a",
+ "tags": [
+  "complex numbers",
+  "imaginary unit",
+  "algebra",
+  "mathematics",
+  "whiteboard lessons"
+ ],
+ "description": "A short sample of a new kind of school book: on every page a virtual teacher explains complex numbers at a whiteboard, speaking each step aloud while writing it on the board, just like a teacher in a classroom. It covers the imaginary unit i, the form a + bi, adding, subtracting and multiplying complex numbers, the powers of i, and the complex plane with the modulus, and ends with practice questions.",
+ "series": "",
+ "volume": 0,
+ "style": "article",
+ "pageCount": 11,
+ "wordCount": 623,
+ "stats": {
+  "words": 623,
+  "chapters": 5,
+  "quizzes": 2,
+  "diagrams": 0,
+  "examples": 0,
+  "videos": 0
+ },
+ "contents": [
+  {
+   "title": "Meet the Number i",
+   "page": 6,
+   "quizzes": 0,
+   "sections": [],
+   "practice": 0
+  },
+  {
+   "title": "The Form a + bi",
+   "page": 7,
+   "quizzes": 0,
+   "sections": [],
+   "practice": 0
+  },
+  {
+   "title": "Multiplying and the Powers of i",
+   "page": 8,
+   "quizzes": 0,
+   "sections": [],
+   "practice": 0
+  },
+  {
+   "title": "The Complex Plane",
+   "page": 9,
+   "quizzes": 0,
+   "sections": [],
+   "practice": 0
+  },
+  {
+   "title": "Practice",
+   "page": 10,
+   "quizzes": 2,
+   "sections": [],
+   "practice": 11
+  }
+ ],
+ "front": [
+  {
+   "title": "Title page",
+   "page": 1
+  },
+  {
+   "title": "Publication",
+   "page": 2
+  },
+  {
+   "title": "Contents",
+   "page": 3
+  },
+  {
+   "title": "Foreword",
+   "page": 4
+  },
+  {
+   "title": "About the Author",
+   "page": 5
+  }
+ ],
+ "samplePages": [
+  1,
+  3,
+  6,
+  7,
+  8,
+  11
+ ],
+ "built": "2026-11-08T03:58:02.345Z",
+ "parts": [
+  {
+   "file": "part-0000.wbk",
+   "title": "Front matter",
+   "first": 1,
+   "count": 5,
+   "version": "5a6a25763320"
+  },
+  {
+   "file": "part-0001.wbk",
+   "title": "Meet the Number i",
+   "first": 6,
+   "count": 1,
+   "version": "f1b4e9f4d157"
+  },
+  {
+   "file": "part-0002.wbk",
+   "title": "The Form a + bi",
+   "first": 7,
+   "count": 1,
+   "version": "6411d1abc7e0"
+  },
+  {
+   "file": "part-0003.wbk",
+   "title": "Multiplying and the Powers of i",
+   "first": 8,
+   "count": 1,
+   "version": "8920ec196a4d"
+  },
+  {
+   "file": "part-0004.wbk",
+   "title": "The Complex Plane",
+   "first": 9,
+   "count": 1,
+   "version": "34c0be992062"
+  },
+  {
+   "file": "part-0005.wbk",
+   "title": "Practice",
+   "first": 10,
+   "count": 2,
+   "version": "0fdbaf20fa2d"
+  }
+ ],
+ "version": "3c2e9aa7a932"
+}
