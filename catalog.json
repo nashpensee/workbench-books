@@ -98,53 +98,55 @@
     "mathematics",
     "AI"
    ],
-   "description": "A short, beautifully illustrated introduction to linear algebra for curious adults, students and anyone heading into data science or AI. It builds real intuition before formulas: vectors as arrows and lists, length and the dot product, matrices as machines that move space, matrix multiplication, solving systems of equations, and eigenvectors. Every chapter has clear diagrams, worked examples you can check by hand, code you can run, and Check your knowledge questions.",
+   "description": "A beautifully illustrated, course-style introduction to linear algebra for curious adults, students and anyone heading into data science or AI. Every chapter states its objectives, explains one idea with diagrams and worked examples, checks your understanding with Just a Minute questions, links to the best videos, web pages and books on the topic, and ends with a summary and practice questions with answers. It covers vectors, length and the dot product, matrices as transformations, matrix multiplication, systems of equations and eigenvectors.",
    "series": "",
    "volume": 0,
-   "pageCount": 20,
-   "wordCount": 968,
+   "style": "article",
+   "pageCount": 50,
+   "wordCount": 1552,
    "stats": {
-    "words": 968,
+    "words": 1552,
     "chapters": 7,
-    "quizzes": 7,
-    "diagrams": 3,
-    "examples": 1
+    "quizzes": 21,
+    "diagrams": 7,
+    "examples": 5,
+    "videos": 8
    },
    "contents": [
     {
      "title": "Why Linear Algebra?",
      "page": 3,
-     "quizzes": 1
+     "quizzes": 3
     },
     {
      "title": "Vectors: Arrows and Lists",
-     "page": 5,
-     "quizzes": 1
+     "page": 9,
+     "quizzes": 3
     },
     {
      "title": "Length and the Dot Product",
-     "page": 8,
-     "quizzes": 1
+     "page": 16,
+     "quizzes": 3
     },
     {
      "title": "Matrices: Machines That Move Space",
-     "page": 11,
-     "quizzes": 1
+     "page": 23,
+     "quizzes": 3
     },
     {
      "title": "Multiplying Matrices",
-     "page": 14,
-     "quizzes": 1
+     "page": 30,
+     "quizzes": 3
     },
     {
      "title": "Solving Systems of Equations",
-     "page": 16,
-     "quizzes": 1
+     "page": 37,
+     "quizzes": 3
     },
     {
      "title": "Eigenvectors and the Big Picture",
-     "page": 19,
-     "quizzes": 1
+     "page": 44,
+     "quizzes": 3
     }
    ],
    "samplePages": [
@@ -153,9 +155,9 @@
     3,
     4,
     5,
-    20
+    50
    ],
-   "built": "2026-11-08T00:44:32.036Z"
+   "built": "2026-11-08T01:18:20.339Z"
   },
   {
    "id": "llm-zero-to-expert-01",
