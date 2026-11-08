@@ -102,7 +102,7 @@
    "series": "",
    "volume": 0,
    "style": "article",
-   "pageCount": 50,
+   "pageCount": 38,
    "wordCount": 1552,
    "stats": {
     "words": 1552,
@@ -120,32 +120,32 @@
     },
     {
      "title": "Vectors: Arrows and Lists",
-     "page": 9,
+     "page": 8,
      "quizzes": 3
     },
     {
      "title": "Length and the Dot Product",
-     "page": 16,
+     "page": 13,
      "quizzes": 3
     },
     {
      "title": "Matrices: Machines That Move Space",
-     "page": 23,
+     "page": 18,
      "quizzes": 3
     },
     {
      "title": "Multiplying Matrices",
-     "page": 30,
+     "page": 23,
      "quizzes": 3
     },
     {
      "title": "Solving Systems of Equations",
-     "page": 37,
+     "page": 29,
      "quizzes": 3
     },
     {
      "title": "Eigenvectors and the Big Picture",
-     "page": 44,
+     "page": 34,
      "quizzes": 3
     }
    ],
@@ -155,9 +155,9 @@
     3,
     4,
     5,
-    50
+    38
    ],
-   "built": "2026-11-08T01:18:20.339Z"
+   "built": "2026-11-08T01:52:39.182Z"
   },
   {
    "id": "llm-zero-to-expert-01",
