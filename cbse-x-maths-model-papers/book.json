@@ -1,0 +1,120 @@
+{
+ "id": "cbse-x-maths-model-papers",
+ "format": 2,
+ "title": "CBSE Class X Mathematics: Model Question Papers",
+ "subtitle": "Board-pattern practice papers with answers and solutions",
+ "author": "Dr. Dev",
+ "publisher": "NoesisLab Publication",
+ "edition": "First edition",
+ "category": "Mathematics",
+ "language": "English",
+ "year": 2026,
+ "price": 0,
+ "currency": "INR",
+ "color": "#12355b",
+ "accent": "#ffc94a",
+ "tags": [
+  "CBSE",
+  "Class 10",
+  "mathematics",
+  "model question paper",
+  "board exam",
+  "practice"
+ ],
+ "description": "Full-length model question papers for CBSE Class X Mathematics (Standard), each set exactly to the board blueprint: 38 questions, 80 marks, three hours, in five sections from multiple-choice and assertion-reason questions to case studies. Every paper follows the unit-wise weightage of the 2026–27 syllabus, the multiple-choice questions can be answered on the page with instant feedback, and every other question has a worked solution. New papers are added to the book one at a time.",
+ "series": "CBSE Class X Model Papers",
+ "volume": 0,
+ "style": "article",
+ "pageCount": 26,
+ "wordCount": 2597,
+ "stats": {
+  "words": 2597,
+  "chapters": 1,
+  "quizzes": 20,
+  "diagrams": 0,
+  "examples": 18,
+  "videos": 0
+ },
+ "contents": [
+  {
+   "title": "Model Paper 1",
+   "page": 6,
+   "quizzes": 20,
+   "sections": [
+    {
+     "title": "Section A: 20 questions, 1 mark each",
+     "page": 7
+    },
+    {
+     "title": "Section B: 5 questions, 2 marks each",
+     "page": 16
+    },
+    {
+     "title": "Section C: 6 questions, 3 marks each",
+     "page": 17
+    },
+    {
+     "title": "Section D: 4 questions, 5 marks each",
+     "page": 18
+    },
+    {
+     "title": "Section E: 3 case studies, 4 marks each",
+     "page": 19
+    },
+    {
+     "title": "Solutions to Sections B to E",
+     "page": 20
+    }
+   ],
+   "practice": 7
+  }
+ ],
+ "front": [
+  {
+   "title": "Title page",
+   "page": 1
+  },
+  {
+   "title": "Publication",
+   "page": 2
+  },
+  {
+   "title": "Contents",
+   "page": 3
+  },
+  {
+   "title": "Foreword",
+   "page": 4
+  },
+  {
+   "title": "About the Author",
+   "page": 5
+  }
+ ],
+ "samplePages": [
+  1,
+  3,
+  6,
+  7,
+  8,
+  26
+ ],
+ "built": "2026-11-09T04:01:08.630Z",
+ "parts": [
+  {
+   "file": "part-0000.wbk",
+   "title": "Front matter",
+   "first": 1,
+   "count": 5,
+   "version": "5fceaf445124"
+  },
+  {
+   "file": "part-0001.wbk",
+   "title": "Model Paper 1",
+   "first": 6,
+   "count": 21,
+   "version": "537c670fba04"
+  }
+ ],
+ "version": "6c26c51f9839"
+}
