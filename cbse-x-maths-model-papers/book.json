@@ -25,14 +25,14 @@
  "series": "CBSE Class X Model Papers",
  "volume": 0,
  "style": "article",
- "pageCount": 26,
- "wordCount": 2597,
+ "pageCount": 51,
+ "wordCount": 5116,
  "stats": {
-  "words": 2597,
-  "chapters": 1,
-  "quizzes": 20,
-  "diagrams": 0,
-  "examples": 18,
+  "words": 5116,
+  "chapters": 2,
+  "quizzes": 40,
+  "diagrams": 3,
+  "examples": 36,
   "videos": 0
  },
  "contents": [
@@ -67,6 +67,38 @@
     }
    ],
    "practice": 7
+  },
+  {
+   "title": "Model Paper 2",
+   "page": 27,
+   "quizzes": 20,
+   "sections": [
+    {
+     "title": "Section A: 20 questions, 1 mark each",
+     "page": 28
+    },
+    {
+     "title": "Section B: 5 questions, 2 marks each",
+     "page": 37
+    },
+    {
+     "title": "Section C: 6 questions, 3 marks each",
+     "page": 39
+    },
+    {
+     "title": "Section D: 4 questions, 5 marks each",
+     "page": 40
+    },
+    {
+     "title": "Section E: 3 case studies, 4 marks each",
+     "page": 42
+    },
+    {
+     "title": "Solutions to Sections B to E",
+     "page": 44
+    }
+   ],
+   "practice": 28
   }
  ],
  "front": [
@@ -97,16 +129,16 @@
   6,
   7,
   8,
-  26
+  51
  ],
- "built": "2026-11-09T04:01:08.630Z",
+ "built": "2026-11-09T04:07:21.781Z",
  "parts": [
   {
    "file": "part-0000.wbk",
    "title": "Front matter",
    "first": 1,
    "count": 5,
-   "version": "5fceaf445124"
+   "version": "72c504d0807d"
   },
   {
    "file": "part-0001.wbk",
@@ -114,7 +146,14 @@
    "first": 6,
    "count": 21,
    "version": "537c670fba04"
+  },
+  {
+   "file": "part-0002.wbk",
+   "title": "Model Paper 2",
+   "first": 27,
+   "count": 25,
+   "version": "0bce34eb5147"
   }
  ],
- "version": "6c26c51f9839"
+ "version": "25a780a9cb41"
 }
